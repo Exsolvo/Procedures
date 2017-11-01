@@ -1,1 +1,6 @@
 Raportarea timpului
+
+Taskurile vor fi raportate in ziua curentă sau cel tîrziu în ziua următoare pînă la ședința de stand-up.
+Taskurile trebuie să fie de maxim 8 ore. Orice task mai mare de 8 ore va fi împărțit în taskuri mai mici.
+Developerul se implică activ în estimarea taskurilor.
+După crearrea listei preliminarii de taskuri developerul va adăuga taskurile sale in softul de project management.
